@@ -1,5 +1,5 @@
 ![image](docs/scoop-logo.jpg)  
-###  About [scoop.sh](https://scoop.sh/)
+### About [scoop.sh](https://scoop.sh/)
 Scoop installs programs you know and love, from the command line with a minimal amount of friction.   
 
 
